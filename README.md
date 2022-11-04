@@ -3,6 +3,7 @@
 Clock App
 ## System requirements
 - Windows 11 and later
+- 64-bit
 ## Installation
 - Download the latest release.
 - Extract the downloaded file.
